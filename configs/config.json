@@ -1,0 +1,21 @@
+{
+    "general_auto": {
+        "type": false,
+        "message": ""
+    },
+    "key_auto": {
+        "type_auto": false
+    },
+    "commands": {},
+    "animations": {},
+    "prefix": ".",
+    "gpt": false,
+    "gpt_voice": false,
+    "forward": false,
+    "auto_delete": {
+        "type": false,
+        "chats": []
+    },
+    "convert": false,
+    "channels_id": []
+}

@@ -1,0 +1,9 @@
+pyrogram
+fuzzywuzzy
+pydub
+aiohttp
+langdetect
+googletrans
+moviepy
+g4f
+SpeechRecognition

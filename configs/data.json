@@ -1,0 +1,184 @@
+{
+    "bot": {
+        "name": "account",
+        "api_id": "Ваш API ID",
+        "api_hash": "Ваш API HASH",
+        "commands": {
+            "помощь": {
+                "text": "%help_command%",
+                "description": "Список доступных команд",
+                "aliases": [
+                    "помощь",
+                    "help",
+                    "хелп"
+                ]
+            },
+            "настройки": {
+                "text": "%setting_command%",
+                "description": "Настройки бота",
+                "aliases": [
+                    "настройки",
+                    "сеттинг",
+                    "setting"
+                ]
+            },
+            "анимации": {
+                "text": "%animation_command%",
+                "description": "Анимации пользователя",
+                "aliases": [
+                    "анимации",
+                    "аним",
+                    "anim",
+                    "animation",
+                    "animations"
+                ]
+            },
+            "команды": {
+                "text": "%commands_command%",
+                "description": "Команды пользователя",
+                "aliases": [
+                    "команды",
+                    "кмд",
+                    "cmd",
+                    "commands",
+                    "command"
+                ]
+            },
+            "ключ": {
+                "text": "%key_command%",
+                "description": "Ключевые автоматические ответы",
+                "aliases": [
+                    "ключ",
+                    "key"
+                ]
+            },
+            "авто": {
+                "text": "%generalauto_command%",
+                "description": "Общий автоответчик",
+                "aliases": [
+                    "авто",
+                    "автответчик",
+                    "auto",
+                    "autoanswer"
+                ]
+            },
+            "конвертер": {
+                "text": "%convert_command%",
+                "description": "Конвертация голосовых сообщений",
+                "aliases": [
+                    "конвертер",
+                    "конв",
+                    "converter",
+                    "conv"
+                ]
+            },
+            "канал": {
+                "text": "%channel_command%",
+                "description": "Добавить канал в список для автоматического ответа",
+                "aliases": [
+                    "канал",
+                    "чат",
+                    "channel",
+                    "chat"
+                ]
+            },
+            "сессия": {
+                "text": "%multisession_command%",
+                "description": "Мульти сессии",
+                "aliases": [
+                    "сессия",
+                    "session"
+                ]
+            },
+            "автор": {
+                "text": "%forward_command%",
+                "description": "Автоматическое скрытие автора пересланного сообщения",
+                "aliases": [
+                    "автор",
+                    "author"
+                ]
+            },
+            "музыка": {
+                "text": "Любимые исполнители: CUPSIZE, Cafune, Папин Олимпос, Дайте танк (1), Dp, rizza, Sqwore, FORUNA 812\n\nЛюбимые треки:\n1. icantbelieveiletyougetaway - aldn\n2. Люди - Дайте танк (!)\n3. Виолетта - CUPSIZE и Рэйчи\n4. Василий - CUPSIZE\n5. Devil Town - Cavetown",
+                "description": "Список музыки пользователя",
+                "aliases": [
+                    "музыка",
+                    "music"
+                ]
+            },
+            "префикс": {
+                "text": "%prefix_command%",
+                "description": "Префикс команд бота",
+                "aliases": [
+                    "префикс",
+                    "prefix"
+                ]
+            },
+            "айди": {
+                "text": "%id_command%",
+                "description": "Получение id человека",
+                "aliases": [
+                    "айди",
+                    "id"
+                ]
+            },
+            "очистка": {
+                "text": "%clear_command%",
+                "description": "Автоудаление сообщение пользователя",
+                "aliases": [
+                    "очистка",
+                    "clear"
+                ]
+            },
+            "бомбер": {
+                "text": "%bomber_command%",
+                "description": "Отправить бомбер по номеру",
+                "aliases": [
+                    "бомбер",
+                    "bomber"
+                ]
+            },
+            "гпт": {
+                "text": "%gpt_command%",
+                "description": "Работа с нейросетью",
+                "aliases": [
+                    "гпт",
+                    "gpt"
+                ]
+            },
+            "гптвойс": {
+                "text": "%gptvoice_command%",
+                "description": "Работа голосом с нейросетью",
+                "aliases": [
+                    "гптвйос",
+                    "gptvoice"
+                ]
+            },
+            "тест": {
+                "text": "%test_command%",
+                "description": "Тестирование кода",
+                "aliases": [
+                    "тест",
+                    "test"
+                ]
+            },
+            "будильник": {
+                "text": "%alarm_command%",
+                "description": "Будильник",
+                "aliases": [
+                    "будильник",
+                    "alarm"
+                ]
+            },
+            "время": {
+                "text": "%time_command%",
+                "description": "Секундомер",
+                "aliases": [
+                    "время",
+                    "time"
+                ]
+            }
+        }
+    },
+    "multi_session": false
+}
