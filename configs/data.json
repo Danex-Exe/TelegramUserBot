@@ -98,14 +98,6 @@
                     "author"
                 ]
             },
-            "музыка": {
-                "text": "Любимые исполнители: CUPSIZE, Cafune, Папин Олимпос, Дайте танк (1), Dp, rizza, Sqwore, FORUNA 812\n\nЛюбимые треки:\n1. icantbelieveiletyougetaway - aldn\n2. Люди - Дайте танк (!)\n3. Виолетта - CUPSIZE и Рэйчи\n4. Василий - CUPSIZE\n5. Devil Town - Cavetown",
-                "description": "Список музыки пользователя",
-                "aliases": [
-                    "музыка",
-                    "music"
-                ]
-            },
             "префикс": {
                 "text": "%prefix_command%",
                 "description": "Префикс команд бота",
