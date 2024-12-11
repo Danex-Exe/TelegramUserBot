@@ -5,4 +5,6 @@
 pip install -r requirements.txt
 ```
 
-И использование бота
+```
+python app.py
+```
